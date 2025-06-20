@@ -28,8 +28,8 @@ def load_metadata():
 area_types, top_locations = load_metadata()
 
 # Streamlit Ui
-st.title('🏠 Bengaluru House Price Predictor')
-st.write("Predict property prices in Bengaluru using ML")
+st.title('Bengaluru House Price Predictor')
+st.write("Predict house prices in Bengaluru using ML")
 
 # Input form
 with st.form("prediction_form"):
