@@ -5,3 +5,12 @@
 - Market trend visualizations 
 - End-to-end pipeline from data to deployment  
  (Python - Scikit-learn - Streamlit)
+
+
+## Installation
+```bash
+git clone https://github.com/<mohit-rahangdale>/property-price-predictor.git
+cd property-price-predictor
+pip install -r requirements.txt
+python main.py
+streamlit run app.py
