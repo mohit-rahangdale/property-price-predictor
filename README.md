@@ -10,6 +10,16 @@
 This dataset was collected around 2017–2018, and therefore price estimates will naturally be under current market values. The purpose of this project is to demonstrate end-to-end preprocessing, feature engineering, regression modeling, and evaluation—not to predict current market rates.
 
 
+## 📸 Demo
+
+### 🔍 Input Form & Prediction  
+<img src="screenshots/demo1.png" alt="Input Form and Prediction" width="700"/>
+
+### 📊 Data Visualization  
+<img src="screenshots/demo2.png" alt="Data Visualization" width="700"/>
+<img src="screenshots/demo2.png" alt="Data Visualization" width="700"/>
+
+
 ## Installation
 ```bash
 git clone https://github.com/<mohit-rahangdale>/property-price-predictor.git
