@@ -13,11 +13,11 @@ This dataset was collected around 2017–2018, and therefore price estimates wil
 ## 📸 Demo
 
 ### 🔍 Input Form & Prediction  
-<img src="screenshots/demo1.png" alt="Input Form and Prediction" width="700"/>
+<img src="https://github.com/mohit-rahangdale/property-price-predictor/blob/main/screenshots/bag1.jpeg.png?raw=true">
 
 ### 📊 Data Visualization  
-<img src="screenshots/demo2.png" alt="Data Visualization" width="700"/>
-<img src="screenshots/demo2.png" alt="Data Visualization" width="700"/>
+<img src="https://github.com/mohit-rahangdale/property-price-predictor/blob/main/screenshots/bag2.png?raw=true">
+<img src="https://github.com/mohit-rahangdale/property-price-predictor/blob/main/screenshots/bag3.png?raw=true">
 
 
 ## Installation
